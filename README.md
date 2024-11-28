@@ -1,1 +1,1 @@
-# t3.py
+print('hello')
